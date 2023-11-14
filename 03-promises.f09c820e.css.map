@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;;;AAMA;;;;;AAKA","sources":["src/sass/03-promises.scss"],"sourcesContent":["form {\n  display: flex;\n  flex-direction: row;\n  gap: 10px;\n}\n\nlabel {\n  display: flex;\n  flex-direction: column;\n}\n\nbutton {\n  margin-top: 20px;\n  cursor: pointer;\n}\n"],"names":[],"version":3,"file":"03-promises.f09c820e.css.map","sourceRoot":"/__parcel_source_root/"}
