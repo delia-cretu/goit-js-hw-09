@@ -1,0 +1,18 @@
+.button {
+  text-transform: capitalize;
+  width: 70px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.button-section {
+  height: 100vh;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: auto;
+  display: flex;
+}
+
+/*# sourceMappingURL=01-color-switcher.086945a3.css.map */
